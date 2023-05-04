@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "Puneet Bhullar",
+    "base_url": "/",
+    "favicon": "/images/profile.png"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "profile": {
+    "name": "Puneet Bhullar",
+    "image": "/images/profile.png",
+    "designation": "Software developer",
+    "bio": "Hi, I’m Puneet Bhullar, a University of Waterloo Computer Engineering student passionate about leveraging software to improve society."
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "tag_manager_id": "",
+    "copyright": ""
+  },
+
+  "metadata": {
+    "meta_author": "Statichunt",
+    "meta_image": "",
+    "meta_description": ""
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template"
+  }
+}
